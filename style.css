@@ -9,11 +9,11 @@
   --font-primary: 'Titan One', cursive;
   --font-secondary: 'Cinzel', serif;
   --font-code: 'Roboto', monospace;
-  --bg-color: #0b8300;
-  --font-color: #ffffff;
+  --bg-color: #429742;
+  --font-color: #000000;
   --btn-bg-color: #ffffff;
-  --accent-color: #5f5f5f;
-  --header-shadow: #000 0px 0px 5px;
+  --accent-color: #969696;
+  --header-shadow: rgb(0, 0, 0) 0px 0px 5px;
 }
 
 * {
